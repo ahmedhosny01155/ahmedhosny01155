@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/ahmed-hosny-bb373a131?" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Dhosny0077B5?style=for-the-badge&logo="Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ahmed-hosny-bb373a131?" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Dhosny0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://facebook.com/ahmed.hosny.wa7ed.bass?mibextid=PzaGJu" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Dhosny0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
